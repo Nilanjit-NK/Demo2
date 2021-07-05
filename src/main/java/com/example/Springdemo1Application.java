@@ -13,7 +13,7 @@ public class Springdemo1Application {
 	}
 	@GetMapping("/")
 	  public String getMsgName() {
-	    return "Welcome Akanksha!";
+	    return "Welcome Nilanjit!";
 	  }
 	@GetMapping("/hi")
 	public String hello() {
